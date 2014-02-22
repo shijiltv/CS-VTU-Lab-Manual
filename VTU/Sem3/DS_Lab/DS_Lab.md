@@ -1,10 +1,4 @@
-
-
-
-
-
-
-## Program 1 : polynomial.c
+<DIV style='page-break-after:always'></DIV>## Program 1 : polynomial.c
 ##Aim:
 ##Using circular representation for a polynomial, design, develop, and execute a program in C to accept two polynomials, add them, and then print the resulting polynomial
 
@@ -233,13 +227,7 @@ The second polynomial is 6x^5 4x^3 3x^1
 The resultant addition polynomial is 6x^5 4x^4 7x^3 2x^2 4x^1 */
 
 
-
-
-
-
-
-
-##AIM: Design, develop, and execute a program in C to convert a given valid parenthesized infixarithmetic expression to postfix expression and then to print both the expressions. Theexpression consists of single character operands and the binary operators + (plus), -(minus), * (multiply) and / (divide). 
+<DIV style='page-break-after:always'></DIV>##AIM: Design, develop, and execute a program in C to convert a given valid parenthesized infixarithmetic expression to postfix expression and then to print both the expressions. Theexpression consists of single character operands and the binary operators + (plus), -(minus), * (multiply) and / (divide). 
 
 ##THEORY:
 Infix Expression : Any expression in the standard form like "2*3-4/5" is an Infix(Inorder) expression.
@@ -382,13 +370,7 @@ Converted  infix to postfix expression is : ab+cd*e/-
 
 
     
-
-
-
-
-
-
-## Name of the Program:
+<DIV style='page-break-after:always'></DIV>## Name of the Program:
 Design, develop, and execute a program in C to evaluate a valid postfix expression using stack. 
 Assume that the postfix expression is read as a single line consisting of non-negative 
 single digit operands and binary arithmetic operators. 
@@ -504,13 +486,7 @@ display as the result.
 
 
 
-
-
-
-
-
-
-##PROGRAM 4 : queue.c
+<DIV style='page-break-after:always'></DIV>##PROGRAM 4 : queue.c
 ##Aim:
 ##Design, develop, and execute a program in C to simulate the working of a queue of integers using an array. Provide the following operations:
 ##1.Insert
@@ -646,13 +622,7 @@ queue is empty
 
 
 
-
-
-
-
-
-
-
+<DIV style='page-break-after:always'></DIV>
 ##AIM: Design, develop, and execute a program in C++ based on the following requirements:
 ##in EMPLOYEE class is to contain the following data members and member functions:
 
@@ -773,13 +743,7 @@ Member functions: to read the data of an employee,to calculate Net_Salary and to
   it:6690  
   da:12300  
   netsal:15610
-
-
-
-
-
-
-## Name of the Program:
+<DIV style='page-break-after:always'></DIV>## Name of the Program:
 Design, develop, and execute a program in C++ to create a class called STRING and implement the 
 following operations. Display the results after every operation by overloading the operator << 
 i) STRING s1 = “VTU” 
@@ -870,13 +834,7 @@ The friend ostream dunction helps us to overload '**<<**' operator as it isnt pa
 
 
 
-
-
-
-
-
-
-##PROGRAM 7 : stack.cpp
+<DIV style='page-break-after:always'></DIV>##PROGRAM 7 : stack.cpp
 ##Design, develop, and execute a program in C++ to create a class called STACK using an array of integers and to implement the following operations by overloading the operators + and - :
 ##a) S1=S1 + element; where S1 is an object of the class STACK and element is an integer to be pushed on to top of the stack.
 ##b) S1=S1- ; where S1 is an object of the class STACK and – operator pops off the top element.
@@ -1025,13 +983,7 @@ Anyother to Exit 3
 
  12
 
-
-
-
-
-
-
-## Name of the Program:
+<DIV style='page-break-after:always'></DIV>## Name of the Program:
 Design, develop, and execute a program in C++ to create a class called LIST (linked list)
 with member functions to insert an element at the front of the list as well as to delete an
 element from the front of the list. Demonstrate all the functions after creating a list object.
@@ -1253,13 +1205,7 @@ Enter the choice of operation:
 
 
 
-
-
-
-
-
-
-##PROGRAM 9 : sparse.c
+<DIV style='page-break-after:always'></DIV>##PROGRAM 9 : sparse.c
 ##Aim:
 ##Design, develop, and execute a program in C to read a sparse matrix of integer values and to search the sparse matrix for an element specified by the user. Print the result of the search appropriately. Use the triple <row, column, value> to represent an element in the sparse matrix.
 
@@ -1358,13 +1304,7 @@ search successful
 
 
 
-
-
-
-
-
-
-## Program 10: heap.c
+<DIV style='page-break-after:always'></DIV>## Program 10: heap.c
 ##AIM: 
 ##Design, develop, and execute a program in C to create a max heap of integers by
 ##accepting one element at a time and by inserting it immediately in to the heap. Use the
@@ -1510,13 +1450,7 @@ Enter the element: 40
 
 40 30 10 15 2 1 5
 
-
-
-
-
-
-
-##Program 11 : doublelinkedlist.c
+<DIV style='page-break-after:always'></DIV>##Program 11 : doublelinkedlist.c
 ##Write a C program to support the following opearations on a doubly linked list where each node consists of integers.
 ##a. Create a doubly linked list by adding each node at the front.
 ##b. Insert a new node to the left of the node whose key value is read as an input
@@ -1824,13 +1758,7 @@ Enter your choice: 4
 Enter your choice: 5
 
 
-
-
-
-
-
-
-## Name of the Program:
+<DIV style='page-break-after:always'></DIV>## Name of the Program:
 Write a C++ program to create a class called DATE. Accept two valid dates of the
 form dd/mm/yy. Implement the following operations by overloading the operators + and -.
 After each operation ,display the result by overloading the << operator.  
@@ -2006,13 +1934,7 @@ The following set of operators is commonly overloaded for user-defined classes:
 
 
 
-
-
-
-
-
-
-##AIM:
+<DIV style='page-break-after:always'></DIV>##AIM:
 ##Write a C++ program to create a class called OCTAL which has the characteristics of an octal number. Implement the following operations by writing an appropriate constructor and an overloaded operator +.(i) OCTAL h = x; where x is an integer.(ii) int y = h + k; where h is an OCTAL object and k is an integerDisplay the OCTAL result by overloading the operator << . Also display the values of h and y. 
 
 ##THEORY: 
@@ -2114,13 +2036,7 @@ The value of h+k in decimal notation,y=105
 The value of h+k in octal notation,y=151
 
 
-
-
-
-
-
-
-##Program 14: bintree.cpp
+<DIV style='page-break-after:always'></DIV>##Program 14: bintree.cpp
 ##AIM: Design, develop, and execute a program in C++ to create a class called BIN_TREE that
 ##represents a Binary Tree, with member functions to perform inorder, preorder and
 ##postorder traversals. Create a BIN_TREE object and demonstrate the traversals.*/

@@ -1,10 +1,4 @@
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Simulate the transmission of ping messages over a network topology consisting of 6 nodes and find the number of packets dropped due to congestion. 
 
 ###Description:
@@ -78,13 +72,7 @@
 
 ![Not Available](3_2.png)
 
-![Not Available](3_3.png)	
-
-
-
-
-
-## Aim:
+![Not Available](3_3.png)	<DIV style='page-break-after:always'></DIV>## Aim:
 ###Write a program for Error Detection using CRC-CCITT(16 bits)
 
 ## Description:
@@ -168,13 +156,7 @@ The technique is also sometimes applied to data storage devices, such as a disk 
 *Screenshots:-*
 
 ![ScreenShot of output](crc.png)
-
-
-
-
-
-
-## Aim: 
+<DIV style='page-break-after:always'></DIV>## Aim: 
 ### Write a program for distance vector algorithm to find suitable path for transmission.
 
 ## Theory
@@ -285,13 +267,7 @@ time stamps and sends back as fast as possible.
 *Screenshots:-*
 
 ![ScreenShot of Output](dsv.png)
-
-
-
-
-
-
-## Aim: 
+<DIV style='page-break-after:always'></DIV>## Aim: 
 ### Using TCP/IP sockets, write a client-server program to make client sending the file name and the server to send back the contents of the requested file if present.
 
 ## Theory
@@ -435,13 +411,7 @@ time stamps and sends back as fast as possible.
 *Screenshots:-*
 
 ![ScreenShot of Output](9.png)
-
-
-
-
-
-
-##Aim
+<DIV style='page-break-after:always'></DIV>##Aim
 Implement message queues or FIFO's using IPC channels.
 
 ###Problem statement:
@@ -564,13 +534,7 @@ contents are displayed.
 
 ![ScreenShot of Output](server.png)
 ![ScreenShot of Output](client.png)
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Write a program for simple RSA algorithm to encrypt and decrypt the data. 
 
 ###Description:
@@ -701,13 +665,7 @@ r key. One key is used to encrypt the plaintext and the other key is used to dec
 
 ![ScreenShot of Output](rsa.png)
 
-
-
-
-
-
-
-## Aim:
+<DIV style='page-break-after:always'></DIV>## Aim:
 ### Write a program for congestion control using Leaky bucket algorithm.
 
 ###Description

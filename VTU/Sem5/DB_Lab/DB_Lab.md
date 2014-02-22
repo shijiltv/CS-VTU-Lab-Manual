@@ -1,10 +1,4 @@
-
-
-
-
-
-
-##PROGRAM 1
+<DIV style='page-break-after:always'></DIV>##PROGRAM 1
 ###DESCRIPTION: 
 The following relations keep track of students, their enrollment for classes along with faculty information.
 
@@ -327,13 +321,7 @@ Description : The outer query fetches the name of the faculty for fid obtained f
 
 
 
-
-
-
-
-
-
-##PROGRAM 4 
+<DIV style='page-break-after:always'></DIV>##PROGRAM 4 
 ###DESCRIPTION:
 The following tables are maintained by a book dealer.
 
@@ -680,13 +668,7 @@ mysql> select * from catalogue1;
 </pre>
 
 
-
-
-
-
-
-
-##PROGRAM 3
+<DIV style='page-break-after:always'></DIV>##PROGRAM 3
 ###DESCRIPTION:
 Consider the following database of student enrollment in courses &
 books adopted for each course.
@@ -978,13 +960,7 @@ mysql> select distinct c.dept
 1 row in set (0.00 sec).
 
 </pre>
-
-
-
-
-
-
-##PROGRAM 4 
+<DIV style='page-break-after:always'></DIV>##PROGRAM 4 
 ###DESCRIPTION:
 The following tables are maintained by a book dealer.
 
@@ -1325,13 +1301,7 @@ mysql> select * from catalogue1;
 </pre>
 
 
-
-
-
-
-
-
-##PROGRAM 5
+<DIV style='page-break-after:always'></DIV>##PROGRAM 5
 ###DESCRIPTION:
 The following relations keep track of a banking enterprise. 
   
@@ -1608,13 +1578,7 @@ mysql>SELECT * FROM account;
 4 rows in set (0.00 sec)</pre>
 
 <p>Description:The inner query "SELECT branch_name FROM branch WHERE branch_city='c5' " selects the branch names from the branch table where the branch city is c5. The selected tuples are given as input to the outer query which deletes the tuples with the selected branch names.</p>
-
-
-
-
-
-
-#MySQL User guide
+<DIV style='page-break-after:always'></DIV>#MySQL User guide
 
 1. **How to install Mysql?**
      * **With internet connection:** 

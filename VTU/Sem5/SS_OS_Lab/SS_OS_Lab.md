@@ -1,10 +1,4 @@
-
-
-
-
-
-
-#AIM:
+<DIV style='page-break-after:always'></DIV>#AIM:
  Program to count the number of characters, words, spaces and lines 
 in a given input file.
 
@@ -59,13 +53,7 @@ gcc lex.yy.c -ll
 word count is 55
 space count is 26
 character count is 588</pre>
-
-
-
-
-
-
-#AIM:
+<DIV style='page-break-after:always'></DIV>#AIM:
 Program to count the numbers of comment lines in a given C program. 
 Also eliminate them and copy the resulting program into separate file.
 ##Description:
@@ -133,13 +121,7 @@ Number of comments is 3
 	}
 
 
-
-
-
-
-
-
-##AIM:
+<DIV style='page-break-after:always'></DIV>##AIM:
 Program to recognize a valid arithmetic expression and to recognize 
 the identifiers and operators present. Print them separately.
 
@@ -203,13 +185,7 @@ No. of operands is:7
 Enter expression
 2-3*
 Invalid expression</pre>
-
-
-
-
-
-
-#AIM:
+<DIV style='page-break-after:always'></DIV>#AIM:
 Program to recognize whether a given sentence is simple or compound.
 ##DESCRIPTION:
 The user is expected to develop a code which recognizes a sentence as either simple or compound.The design considers that we use and, or, but & between.The user can specify more rules as per his/her choice.
@@ -248,13 +224,7 @@ Its a simple sentence</pre>
 
 
 
-
-
-
-
-
-
-#AIM:
+<DIV style='page-break-after:always'></DIV>#AIM:
 Program to recognize and count the number of identifiers in a given
 input file.
 
@@ -374,13 +344,7 @@ the no. of float identifiers are 4
 the no. of char identifiers are 1
 the no. of double identifiers are 0
 </pre>
-
-
-
-
-
-
-##Program : 4a.y (Yacc Specification)
+<DIV style='page-break-after:always'></DIV>##Program : 4a.y (Yacc Specification)
 ## AIM:
 Program to recognize a valid arithmetic expression that uses operators +, -, * and /.
 
@@ -530,13 +494,7 @@ Invalid expression
 
 
 
-		
-
-
-
-
-
-##Program : 4b.y
+		<DIV style='page-break-after:always'></DIV>##Program : 4b.y
 ##Aim: 
 Program to recognize a valid variable, which starts with a letter, followed by any number of letters or digits.
 
@@ -595,13 +553,7 @@ Valid variable
 34aaa
 
 Invalid expression
-
-
-
-
-
-
-##PROGRAM: 5a.y(YACC specification)
+<DIV style='page-break-after:always'></DIV>##PROGRAM: 5a.y(YACC specification)
 ##AIM:
  Program to evaluate an arithmetic expression involving operators +, -, * and /.
 ##DESCRIPTION:
@@ -711,13 +663,7 @@ main()
 
 
 
-
-
-
-
-
-
-##AIM :Program to recognize strings ‘aaab’, ‘abbb’, ‘ab’ and ‘a’ using the grammar (anbn, n>= 0).
+<DIV style='page-break-after:always'></DIV>##AIM :Program to recognize strings ‘aaab’, ‘abbb’, ‘ab’ and ‘a’ using the grammar (anbn, n>= 0).
 
 
 ###DESCRIPTION : 
@@ -785,13 +731,7 @@ Invalid grammar</pre>
 
 
 
-
-
-
-
-
-
-##AIM:Program to recognize the grammar (anb, n>= 10).
+<DIV style='page-break-after:always'></DIV>##AIM:Program to recognize the grammar (anb, n>= 10).
 
 ###DESCRIPTION:
 <p>The program has three parts:definition section,rule section,subroutine section. The program uses a variable count to keep track of the number of A's in the input string and B is accepted only once according to the rule described.So count must be more than 9.</p>
@@ -847,13 +787,7 @@ b return B;
 <p>2) enter a string of a's and b's</p>
 <p>aaaaaab</p>
 <p>invalid grammar</p>
-
-
-
-
-
-
-###Aim:
+<DIV style='page-break-after:always'></DIV>###Aim:
 Non-recursive shell script that accepts any number of arguments and prints them in the Reverse order, ( For example, if the script is named rargs, then executing rargs A B C should produce C B A on the standard output).
 
 ####Description:
@@ -877,13 +811,7 @@ echo "$rev" </pre>
 ####Output:
 <pre>./7a.sh 2 7 5
 5 7 2
-
-
-
-
-
-
-###Aim:
+<DIV style='page-break-after:always'></DIV>###Aim:
 C program that creates a child process to read commands from the standard input and execute them (a minimal implementation of a shell–like program). You can assume that no arguments will be passed to the commands to be executed.
 
 ####Description:
@@ -929,13 +857,7 @@ ls
 Enter command:
 date
 Fri Jan 24 17:56:06 IST 2014
-</pre>
-
-
-
-
-
-###Aim:
+</pre><DIV style='page-break-after:always'></DIV>###Aim:
 Shell script that accepts two file names as arguments, checks if the permissions for these files are identical and if the permissions are identical, outputs the common permissions, otherwise outputs each file name followed by its permissions.
 
 ####Descrtiption:
@@ -1011,13 +933,7 @@ Other's permissions are different
 Group permissions are different
  Permissions for file a.out : rwx 
  Permissions for file 1.sh : r-x 
-Other's permissions are same: r-x</pre>  
-
-
-
-
-
-###Aim:
+Other's permissions are same: r-x</pre>  <DIV style='page-break-after:always'></DIV>###Aim:
 C program to create a file with 16 bytes of arbitrary data from the beginning and another 16 bytes of arbitrary data from an offset of 48. Display the file contents to demonstrate how the hole in file is handled.
 
 ####Description:
@@ -1070,13 +986,7 @@ int main()
 ~                                                                               
 Type  :quit<Enter>  to exit Vim
 </pre>
-
-
-
-
-
-
-###Aim:
+<DIV style='page-break-after:always'></DIV>###Aim:
 Shell script that accepts file names specified as arguments and creates a shell script that contains this file as well as the code to recreate these files. Thus if the script generated by your script is executed, it would recreate the original files(This is same as the “bundle” script described by Brain W. Kernighan and Rob Pike in “The Unix Programming Environment”, Prentice – Hall India).
 
 ####Description:
@@ -1124,13 +1034,7 @@ if(pid)
 return 0;
 }
 EOF
-</pre>
-
-
-
-
-
-###Aim:
+</pre><DIV style='page-break-after:always'></DIV>###Aim:
 C program to do the following: Using fork( ) create a child process.The child process prints its own process-id and id of its parent and then exits. The parent process waits for its child to finish (by executing the wait( )) and prints its own process-id and the id of its child process and then exits.
 
 ###Description:
@@ -1179,13 +1083,7 @@ my own id is: 4273</pre>
 
 
 
-
-
-
-
-
-
-#AIM:
+<DIV style='page-break-after:always'></DIV>#AIM:
 To Design, develop and execute a program in C / C++ to simulate the working of Shortest Remaining Time and Round-Robin Scheduling Algorithms.
 ##Description:
 ###Shortest remaining time:
@@ -1485,13 +1383,7 @@ Enter the burst time for process 4: 5</pre>
 tavg=12.734766   
 
 wavg=6.500000
-
-
-
-
-
-
-##AIM:
+<DIV style='page-break-after:always'></DIV>##AIM:
  Using OpenMP, Design, develop and run a multi-threaded program to generate and print Fibonacci Series. One thread has to generate the  numbers up to the specified limit and another thread has to print them. Ensure proper synchronization.
 
 ###DESCRIPTION:
@@ -1547,13 +1439,7 @@ the elements of fib series are
 3,id of the thread displaying this no is =  1
 </pre>
 
-
-
-
-
-
-
-##AIM: Program 12: Design, develop and run a program to implement the Bankers Algorithm. Demonstrate its Working with different data values
+<DIV style='page-break-after:always'></DIV>##AIM: Program 12: Design, develop and run a program to implement the Bankers Algorithm. Demonstrate its Working with different data values
 
 ###DESCRIPTION:
 The Banker's algorithm is a resource allocation and deadlock avoidance algorithm developed by Edsger Dijkstra that tests for safety by simulating the allocation of predetermined maximum possible amounts of all resources, and then makes an "s-state" check to test for possible deadlock conditions for all other pending activities, before deciding whether allocation should be allowed to continue.The Banker's algorithm is run by the operating system whenever a process requests resources.The algorithm avoids deadlock by denying or postponing the request if it determines that accepting the request could put the system in an unsafe state. When a new process enters a system, it must declare the maximum number of instances of each resource type that it may ever claim; clearly, that number may not exceed the total number of resources in the system. Also, when a process gets all its requested resources it must return them in a finite amount of time.

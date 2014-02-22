@@ -1,10 +1,4 @@
-
-
-
-
-
-
-## Program 10: Write a PHP program to store page views count in SESSION, to increment the count on each refresh, and to show the count on web page.
+<DIV style='page-break-after:always'></DIV>## Program 10: Write a PHP program to store page views count in SESSION, to increment the count on each refresh, and to show the count on web page.
 ***
 
 ### Tags used:
@@ -41,13 +35,7 @@
 
 ### Screenshot:
 
-![output_1](10.png)
-
-
-
-
-
-## Program 11: Create a XHTML form with Name, Address Line 1, Address Line 2, and E-mail text fields. On submitting, store the values in MySQL table. Retrieve and display the data based on Name.
+![output_1](10.png)<DIV style='page-break-after:always'></DIV>## Program 11: Create a XHTML form with Name, Address Line 1, Address Line 2, and E-mail text fields. On submitting, store the values in MySQL table. Retrieve and display the data based on Name.
 ***
 
 ### Setting up the database (MySQL):
@@ -151,13 +139,7 @@
 ![input](11_1.png)
 
 ![output](11_2.png)
-
-
-
-
-
-
-## Program 12: 
+<DIV style='page-break-after:always'></DIV>## Program 12: 
 ### Build a Rails application to accept book information viz. Accession number, title, authors, edition and publisher from a web page and store the information in a database and to search for a book with the title specified by the user and to display the search results with proper headings.
 ***
 
@@ -362,13 +344,7 @@ publisher:string`
 ![input_1](12_1.png)
 ![input_2](12_2.png)
 ![output](12_3.png)
-
-
-
-
-
-
-## 1. Develop and demonstrate a XHTML file that includes JavaScript script for the following problems:
+<DIV style='page-break-after:always'></DIV>## 1. Develop and demonstrate a XHTML file that includes JavaScript script for the following problems:
 ### a) Input: A number n obtained using prompt
 ### Output: The first n Fibonacci numbers
 ### b) Input: A number n obtained using prompt
@@ -475,13 +451,7 @@ publisher:string`
 ![output](1b.png)
 
 ![no_input](1a_4.png)
-
-
-
-
-
-
-## Program 2:
+<DIV style='page-break-after:always'></DIV>## Program 2:
 ### a) Develop and demonstrate, using Javascript script, a XHTML document that collects the USN ( the valid format is: A digit from 1 to 4 followed by two upper-case characters followed by two digits followed by two upper-case characters followed by three digits; no embedded spaces allowed) of the user. Event handler must be included for the form element that collects this information to validate the input. Messages in the alert windows must be produced when errors are detected.
 ### b) Modify the above program to get the current semester also (restricted to be a number from 1 to 8).
 ***
@@ -607,13 +577,7 @@ publisher:string`
 
 ![output_3](2b_3.png)
 
-
-
-
-
-
-
-## Program 3:
+<DIV style='page-break-after:always'></DIV>## Program 3:
 ### a) Develop and demonstrate, using Javascript script, a XHTML document that contains three short paragraphs of text, stacked on top of each other, with only enough of each showing so that the mouse cursor can be placed over some part of them. When the cursor is placed over the exposed part of any paragraph, it should rise to the top to become completely visible.
 ### b) Modify the above document so that when a paragraph is moved from the top stacking position, it returns to its original position rather than to the bottom.
 ***
@@ -774,13 +738,7 @@ publisher:string`
 ### Screenshots:
 
 ![output](3b.png)
-
-
-
-
-
-
-## Program 4:
+<DIV style='page-break-after:always'></DIV>## Program 4:
 ### a) Design an XML document to store information about a student in an engineering college affiliated to VTU. The information must include USN, Name, Name of the College, Brach, Year of Joining, and e-mail id. Make up sample data for 3 students. Create a CSS style sheet and use it to display the document.
 ### b) Create an XSLT style sheet for one student element of the above document and use it to create a display of that element.
 ***
@@ -902,13 +860,7 @@ publisher:string`
 ### Screenshot:
 
 ![output](4.png)
-
-
-
-
-
-
-# Program 5:
+<DIV style='page-break-after:always'></DIV># Program 5:
 ## a) Write a Perl program to display various Server Information like Server Name, Server Software, Server protocol, CGI Revision etc.
 ## b) Write a Perl program to accept UNIX command from a HTML form and to display the output of the command executed.
 ***
@@ -1009,13 +961,7 @@ publisher:string`
 ![input_2](5b_2.png)
 
 ![output](5b_3.png)
-
-
-
-
-
-
-# Program 6:
+<DIV style='page-break-after:always'></DIV># Program 6:
 ## a) Write a Perl program to accept the User Name and display a greeting message randomly chosen from a list of 4 greeting messages.
 ## b) Write a Perl program to keep track of the number of visitors visitingthe web page and to display this count of visitors, with proper headings.
 ***
@@ -1122,13 +1068,7 @@ publisher:string`
 ### Screenshots:
 
 ![output](6b.png)
-
-
-
-
-
-
-## Program 7: Write a Perl program to display a digital clock which displays the current time of the server.
+<DIV style='page-break-after:always'></DIV>## Program 7: Write a Perl program to display a digital clock which displays the current time of the server.
 ***
 
 ### Tags used:
@@ -1168,13 +1108,7 @@ publisher:string`
 
 ### Screenshot:
 
-![output_1](7.png)
-
-
-
-
-
-## Program 8: Write a Perl program to insert name and age information entered by the user into a table created using MySQL and to display the current contents of this table.
+![output_1](7.png)<DIV style='page-break-after:always'></DIV>## Program 8: Write a Perl program to insert name and age information entered by the user into a table created using MySQL and to display the current contents of this table.
 ***
 
 ### Setting up the database (MySQL):
@@ -1250,13 +1184,7 @@ publisher:string`
 ### Screenshot:
 
 ![output_1](8.png)
-
-
-
-
-
-
-## Program 9: Write a PHP program to store current date-time in a COOKIE and display the ‘Last visited on’ date-time on the web page upon reopening of the same page.
+<DIV style='page-break-after:always'></DIV>## Program 9: Write a PHP program to store current date-time in a COOKIE and display the ‘Last visited on’ date-time on the web page upon reopening of the same page.
 ***
 
 ### Tags used:

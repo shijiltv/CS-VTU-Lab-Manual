@@ -1,10 +1,4 @@
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###To Write a C/C++ POSIX compliant program to check the following limits: <br>(i) No. of clock ticks<br>(ii) Max. no. of child processes<br>(iii) Max. path length<br>(iv) Max. no. of characters in a file name<br>(v) Max. no. of open files/ process
 
 
@@ -117,13 +111,7 @@ int main()
  ![not available](usp-lab-01.png "usp01 screenshot") 
 
 
-
-
-
-
-
-
-##Aim :
+<DIV style='page-break-after:always'></DIV>##Aim :
 ###Write a C/C++ POSIX compliant program that prints the POSIX defined configuration options supported on any given system using feature test macros.
 
 ##Theory :
@@ -209,13 +197,7 @@ and then enter the source code and save it.
 </ul>
 
 #*Screenshots:-*
-![Not Available](02_output.png)
-
-
-
-
-
-## Aim:
+![Not Available](02_output.png)<DIV style='page-break-after:always'></DIV>## Aim:
 
 ### Consider the last 100 bytes as a region. Write a C/C++ program to check whether the region is locked or not. If the region is locked, print pid of the process which has locked. Ifthe region is not locked, lock the region with an exclusive lock, read the last 50 bytes and unlock the region.
 
@@ -313,13 +295,7 @@ F_GETLK, F_SETLK and F_SETLKW are used  to  acquire, release, and test for the e
 ![not available](out2.png "output2")
 
 ![not available](out3.png "output3")
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 Write a C/C++ program which demonstrates interprocess communication between a reader process and a writer process. Use mkfifo, open, read, write and close APIs in your program.
 
 ##Algorithm:
@@ -434,13 +410,7 @@ int main(int argc,char *argv[])
 
 ##Screenshots:
 
- ![not available](usp-lab-04.png "usp04 screenshot") 
-
-
-
-
-
-##Aim :
+ ![not available](usp-lab-04.png "usp04 screenshot") <DIV style='page-break-after:always'></DIV>##Aim :
 
 ###Write a C/C++ program thgat output the contents of its Environment list.
 
@@ -484,13 +454,7 @@ int main(int argc,char *argv[])
 ##Screenshot :
 
 ![Not Available](out1.png)
-![Not Available](out2.png)
-
-
-
-
-
-##Aim : 
+![Not Available](out2.png)<DIV style='page-break-after:always'></DIV>##Aim : 
 
 ###Write a C / C++ program to emulate the unix ln command.
 
@@ -556,13 +520,7 @@ by checking the inode number of both the input files.</li></ul>
 ##Screenshot :
 
 ![Not Available](output5b.png)
-
-
-
-
-
-
-##Aim: 
+<DIV style='page-break-after:always'></DIV>##Aim: 
 
 ###To Write a C/C++ program to illustrate the race condition.
 
@@ -623,13 +581,7 @@ static void charatatime(char *str)
 
  ![not available](usp-lab-06b.png "usp06 screenshot") 
 
-
-
-
-
-
-
-
+<DIV style='page-break-after:always'></DIV>
 ##Aim:
 
 ###Write a C/C++ program that creates a zombie and then calls system to execute the ps command to verify that the process is zombie.
@@ -696,13 +648,7 @@ Syntax:
 
 ##Screenshots:
 ![not avialable](usp-lab-07.png)
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 
 ###Write a C/C++ program to avoid zombie process by forking twice.
 
@@ -756,13 +702,7 @@ int main()
 
 ##Screenshot:
 
-![not available](usp-lab-08.png "usp08 screenshot") 
-
-
-
-
-
-##Aim:
+![not available](usp-lab-08.png "usp08 screenshot") <DIV style='page-break-after:always'></DIV>##Aim:
 
 ###Write a C/C++ program to implement the system function.
 
@@ -815,13 +755,7 @@ int main(int argc,char *argv[])
 <li>run the program using ./usp09.out</li>
 Note:To run use ./a.out command1 command2 ,..., commandn where each command is a shell command. Example : ./a.out ps date who 
 ###Screenshot:
-![Not available](output.png)
-
-
-
-
-
-##Aim :
+![Not available](output.png)<DIV style='page-break-after:always'></DIV>##Aim :
 ###Write a C/C++ program to set up a real-time clock interval timer using the alarm API.
 
 ##Theory :
@@ -862,13 +796,7 @@ Note:To run use ./a.out command1 command2 ,..., commandn where each command is a
 </ol>
 
 ##Screenshot:-
-![Not Available](Output.png)
-
-
-
-
-
-##Aim:
+![Not Available](Output.png)<DIV style='page-break-after:always'></DIV>##Aim:
 ### Write a C program for a syntax directed definition of a "if E then S1" and "if E then S1 else S2"
 
 ###Description:
@@ -943,13 +871,7 @@ Note:To run use ./a.out command1 command2 ,..., commandn where each command is a
 ###Screenshots:-
 
 ![ScreenShot of Output](sdd_cd.png)
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ### Write a yacc program that accepts a regular expression as input and produce its parse tree as output.
 
 ###Description:

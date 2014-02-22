@@ -1,10 +1,4 @@
-
-
-
-
-
-
-###Aim:To Sort a given set of elements using the Quicksort method and determine the time required to sort the elements. Repeat the experiment for different values of n, the number of elements in the list to be sorted and plot a graph of the time taken versus n. The elements can be read from a file or can be generated using the random number generator.
+<DIV style='page-break-after:always'></DIV>###Aim:To Sort a given set of elements using the Quicksort method and determine the time required to sort the elements. Repeat the experiment for different values of n, the number of elements in the list to be sorted and plot a graph of the time taken versus n. The elements can be read from a file or can be generated using the random number generator.
 ###Description:
 <p> The program is based on the Quicksort algorithm which is an instatiation of divide and conquer method of solving the problem. Here the given array is partitioned every time and the sub-array is sorted.Dividing is based on an element called pivot. A divide and conquer algorithm works by recursively breaking down a problem into two or more sub-problems of the same (or related) type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem.</p>
 
@@ -204,13 +198,7 @@ void fnDispArray( int X[], int n)
 }
 
 
-
-
-
-
-
-
-##AIM: 
+<DIV style='page-break-after:always'></DIV>##AIM: 
 Program to sort an array using Merge Sort
 
 ##DESCRIPTION: 
@@ -393,13 +381,7 @@ plot "mergesort.txt" t "Merge Sort" with lines
 
 
 mergesort.png
-
-
-
-
-
-
-##AIM : To obtain the Topological ordering of vertices in a given digraph.
+<DIV style='page-break-after:always'></DIV>##AIM : To obtain the Topological ordering of vertices in a given digraph.
 ###DESCRIPTION :
 <pre> Topological sorting for Directed Acyclic Graph (DAG) is a linear ordering of vertices such that for every directed edge uv, vertex u comes before v in the ordering.Topological Sorting for a graph is not possible if the graph is not a DAG.
  Input parameters:
@@ -501,13 +483,7 @@ Input Graph : 5 vertices
     0 0 0 0 0
     
 Topological Sorting (JOB SEQUENCE) is:- 
-2 1 3 4 5 </pre>
-
-
-
-
-
-##AIM : Compute the transitive closure of a given directed graph using Warshall's algorithm.
+2 1 3 4 5 </pre><DIV style='page-break-after:always'></DIV>##AIM : Compute the transitive closure of a given directed graph using Warshall's algorithm.
 
 ###DESCRIPTION :
 <pre>Warshall's algorithm determines whether there is a path between any two nodes in the graph. It does not give the number of the paths between two nodes. 
@@ -613,13 +589,7 @@ The transitive closure for the given graph is :-
 1	1	1	1	
 1	1	1	1	
 1	1	1	1	
-1	1	1	1 </pre>	
-
-
-
-
-
-#AIM: To solve 0/1 Knapsack problem using Dynamic Programming.
+1	1	1	1 </pre>	<DIV style='page-break-after:always'></DIV>#AIM: To solve 0/1 Knapsack problem using Dynamic Programming.
 ##Description:
 <pre><b>The Knapsack problem is probably one of the most interesting and most popular in computer science, especially when we talk about dynamic programming.
 The knapsack problem is a problem in combinatorial optimization. Given a set of items, each with a weight and a value,
@@ -838,13 +808,7 @@ Item numbers which are loaded :
 { 1 2 4 }
 
 Total Profit : 37
-*****************************************************************************/
-
-
-
-
-
-##AIM:Program 5. From a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm.
+*****************************************************************************/<DIV style='page-break-after:always'></DIV>##AIM:Program 5. From a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm.
 
 ###DESCRIPTION:
 1. To find the shortest path between points, the weight or length of a path is calculated as the sum of the  weights of the edges in the path.
@@ -1100,13 +1064,7 @@ Press Enter to continue...
 ******************************************************************************/
 
 </pre>
-
-
-
-
-
-
-##AIM: Find Minimum Cost Spanning Tree of a given undirected graph using Kruskal's algorithm.
+<DIV style='page-break-after:always'></DIV>##AIM: Find Minimum Cost Spanning Tree of a given undirected graph using Kruskal's algorithm.
 
 ###DESCRIPTION:
 
@@ -1375,13 +1333,7 @@ The Spanning tree is shown below
 
 Cost of the spanning tree : 15
 ******************************************************************************/</pre>
-
-
-
-
-
-
-##AIM: 
+<DIV style='page-break-after:always'></DIV>##AIM: 
 Program to find all nodes reachable from a given node using BFS
 
 ##DESCRIPTION: 
@@ -1629,13 +1581,7 @@ Vertices which can be reached from vertex 2 are :-
 1, 2, 3, 4, 
 
 ******************************************************************************/
-</pre>
-
-
-
-
-
-##AIM:Program 7.b. Check whether a given graph is connected or not using DFS method.
+</pre><DIV style='page-break-after:always'></DIV>##AIM:Program 7.b. Check whether a given graph is connected or not using DFS method.
 ###DESCRIPTION:
 Depth-first search is a graph traversal algorithm, which has a very wide application area. This algorithm may be used for finding out number of components of a graph, topological order of its nodes or detection of cycles.Itis an algorithm for traversing or searching a tree, tree structure, or graph. One starts at the root (selecting some node as the root in the graph case) and explores as far as possible along each branch before backtracking.
 
@@ -1728,13 +1674,7 @@ Enter the adjacency matrix :
 1 0 0 0
 
 Graph is connected.
-</pre>
-
-
-
-
-
-#AIM:Program to solve Subset sum problem.
+</pre><DIV style='page-break-after:always'></DIV>#AIM:Program to solve Subset sum problem.
 ##Desrcription:
 <b>In computer science, the subset sum problem is an important problem in complexity theory and cryptography. The problem is this: Given a set of integers, is there a non-empty subset whose sum is zero? For example, given the set {−7, −3, −2, 5, 8}, the answer is yes because the subset {−3, −2, 5} sums to zero. The problem is NP-complete.
 <pre><b>Input: The number of elements.
@@ -1913,13 +1853,7 @@ Enter the total required weight : 11
 
 The given problem instance doesnt have any solution.
 
-******************************************************************************/
-
-
-
-
-
-#AIM: 
+******************************************************************************/<DIV style='page-break-after:always'></DIV>#AIM: 
 Implement any scheme to find the optimal solution for the TRAVELLING SALESMAN PROBLEM and then solve the same problem instance using any approximation algorithm and determine the error in the approximation.
 
 ##DESCRIPTION:
@@ -2147,13 +2081,7 @@ int tourcost[120];</pre>
   The Accuracy ratio is 1.05405
 
   The Approximate tour is 5.40541 percent longer than the optimal tour</pre>
-
-
-
-
-
-
-##Aim:Find Minimum Cost Spanning Tree of a given undirected graph using Prim’s algorithm.
+<DIV style='page-break-after:always'></DIV>##Aim:Find Minimum Cost Spanning Tree of a given undirected graph using Prim’s algorithm.
 ###Description:
 <p>	The program uses prim's algorithm which is based on minimum spanning tree for a connected undirected graph.A predefinined cost adjecency matrix is the input.To find the minimum spanning tree, we choose the source node at random and in every step we find the node which is closest as well as having the least cost from the previously selected node.And also the cost of selected edge is being added to variable sum.Based on the value of sum, the presence of the minimum spanning tree is found.</p>
 
@@ -2345,13 +2273,7 @@ Enter the Cost Adjacency Matrix
 9999	9999	9999	4	0
 
 Spanning tree does not exist
-******************************************************************************/</pre>
-
-
-
-
-
-#AIM: 
+******************************************************************************/</pre><DIV style='page-break-after:always'></DIV>#AIM: 
  Implement All-Pairs Shortest Paths Problem using Floyd's algorithm. 
 Parallelize this algorithm, implement it using OpenMP and determine the 
 speed-up achieved.
@@ -2432,13 +2354,7 @@ Enter the cost matrix:
 5	6	7
 3	4	1
 2	3	4</pre>
-
-
-
-
-
-
-#AIM: Program to solve N Queens problem using backtracking.
+<DIV style='page-break-after:always'></DIV>#AIM: Program to solve N Queens problem using backtracking.
 
 ##DESCRIPTION:
 Given a CHESS BOARD of size N*N,we are supposed to place N QUEEN's such that no QUEEN is in an attacking position.

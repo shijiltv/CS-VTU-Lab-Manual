@@ -1,10 +1,4 @@
-
-
-
-
-
-
-## Aim: 
+<DIV style='page-break-after:always'></DIV>## Aim: 
 ### Program to recursively subdivide a tetrahedron to from 3D Sierpinski gasket. The number of recursive steps is to be specified by the user.
 
 ##Theory
@@ -137,13 +131,7 @@
 *Screenshots:-*
 
 ![ScreenShot of Output](sierpanski.png)   
-
-
-
-
-
-
-## Aim: 
+<DIV style='page-break-after:always'></DIV>## Aim: 
 ### Program to implement Liang-Barsky line clipping algorithm.
 
 ##Theory
@@ -278,13 +266,7 @@
 ![Screenshot of Output](liang.png)   
 
 
-
-
-
-
-
-
-## Aim: 
+<DIV style='page-break-after:always'></DIV>## Aim: 
 ### Program to draw a color cube and spin it using OpenGL transformation matrices.
 
 ## Algorithm
@@ -395,13 +377,7 @@
 
 *Screenshots:-*
 
-![Screenshot of Output](spincube.png) 	
-
-
-
-
-
-## Aim
+![Screenshot of Output](spincube.png) 	<DIV style='page-break-after:always'></DIV>## Aim
 ### Program to create a house like figure and rotate it about a given fixed point using OpenGL functions.
 
 ## Algorithm 
@@ -541,13 +517,7 @@
 *Screenshots:-*
 
 ![Screenshot of Output](rotatehouse.png) 
-
-
-
-
-
-
-## Aim: 
+<DIV style='page-break-after:always'></DIV>## Aim: 
 ###
 Program to implement the Cohen-Sutherland line-clipping algorithm. Make provision to specify the input line, window for clipping and view port for displaying the clipped image.
 
@@ -793,13 +763,7 @@ X < Xmin
 *Screenshots:-*
 
 ![Screenshot of Output](cohen.png)   
-
-
-
-
-
-
-### Aim:
+<DIV style='page-break-after:always'></DIV>### Aim:
 #### Program to create a cylinder and a parallelepiped by extruding a circle and quadrilateral respectively.
 ###Algorithm:
 
@@ -915,13 +879,7 @@ X < Xmin
 *Screenshots:-*
 
 ![Screenshot of Output](parallelopiped.png)   
-
-
-
-
-
-
-## Aim: 
+<DIV style='page-break-after:always'></DIV>## Aim: 
 ##### Program, using OpenGL functions, to draw a simple shaded scene consisting of a tea pot on a table. Define suitably the position and properties of the light source along with the properties of the properties of the surfaces of the solid object used in the scene.
 
 ## Algorithm:
@@ -1059,13 +1017,7 @@ X < Xmin
 *Screenshots:-*
 
 ![Screenshot of Output](teapot.png)   
-
-
-
-
-
-
-## Aim:
+<DIV style='page-break-after:always'></DIV>## Aim:
 ### Program to draw a color cube and allow the user to move the camera suitably to experiment with perspective viewing. Use OpenGL functions.
 
 ## Algorithm
@@ -1188,13 +1140,7 @@ X < Xmin
 
 ![Screenshot of Output](movecube.png)
 
-
-
-
-
-
-
-## Aim:
+<DIV style='page-break-after:always'></DIV>## Aim:
 ### Program to fill any given polygon using scan-line area filling algorithm.
 
 ## Algorithm:
@@ -1324,13 +1270,7 @@ For each scan line
 *Screenshots:-*
 
 ![ScreenShot of Output](scanfill.png)
-
-
-
-
-
-
-## Aim:
+<DIV style='page-break-after:always'></DIV>## Aim:
 ### Program to display a set of values {fij} as a rectangular mesh.
 
 ## Algorithm :
@@ -1411,9 +1351,4 @@ For each scan line
 
 ![Screenshot of Output](mesh.png) 	
  
-
-
-
-
-
-
+<DIV style='page-break-after:always'></DIV>
