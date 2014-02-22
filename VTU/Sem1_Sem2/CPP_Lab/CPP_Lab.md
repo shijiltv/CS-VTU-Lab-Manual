@@ -1,10 +1,4 @@
-
-
-
-
-
-
-## Aim:
+<DIV style='page-break-after:always'></DIV>## Aim:
 ### Design, develop and execute a program in C to find and output all the roots of a given quadratic equation, for nonzero coefficients.
 
 ## Summary:  
@@ -134,13 +128,7 @@ Enter the coefficients of a,b,c<br>
 The Roots are imaginary and they are<br>
 Root1 = -1.500000+i0.866025<br>
 Root2 = -1.500000-i0.866025<br>
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a program in C to implement Euclid’s algorithm to find the GCD and LCM of two integers and to output  the results along with the given integers.
 
 ##Summary:
@@ -256,13 +244,7 @@ Run the following commands in your terminal:
     3: Enter the two numbers
        5   0
        GCD and LCM of 5 and 0 is 5 and 0
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a program in C to reverse a given four    digit integer number and check whether it is a palindrome or not. Output the given number with suitable message.
 
 ##Summary:
@@ -331,13 +313,7 @@ Run the following commands in your terminal:<br>
            1234
            Reverse of 1234 is 4321
            It is not a palindrome
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a program in C to evaluate the given polynomial    f(x) = a4x4 + a3x3 + a2x2+ a1x + a0   for given value of x and the coefficients using Horner’s method.
 
 ##Summary:
@@ -436,13 +412,7 @@ Run the following commands in your terminal:<br>
 		Enter the coefficients in descending order of degree
 		1 2 3 4 5
 		Value of polynomial after evaluation=15.000000
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a program in C to copy its input to its output,    replacing each string of one or more blanks by a single blank.
 
 ##Summary:
@@ -508,13 +478,7 @@ Run the following commands in your terminal:<br>
 	String with only one space 
 	I like programming in C.                                                                                     
                                               
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a program in C to input N integer numbers in ascending order into a single dimension array, and then to perform a binary search for a given key integer number and report success or failure in the form of a suitable message.
 
 ##Summary:
@@ -632,13 +596,7 @@ Run the following commands in your terminal:<br>
 	  Key element 7 is not found 
 
 
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a program in C to input N integer numbers into a single dimension array, sort them in to ascending order using bubble sort technique, and then to print both the given array and the sorted array with suitable headings.
 
 ##Summary:
@@ -745,13 +703,7 @@ The Sorted array of the given array is
 3 4 5 6 8 9
 
 
-
-
-
-
-
-
-## Aim:
+<DIV style='page-break-after:always'></DIV>## Aim:
 ### Design, develop and execute a program in C to compute and print the word length on the host machine.
 
 ## Summary:  
@@ -788,13 +740,7 @@ Run the following commands in your terminal:<br>
 ####./a.out
 
 The Word length of the host machine is 32
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a program in C to calculate the approximate value of exp (0.5) using the Taylor Series expansion for the exponential function. Use the terms in the expansion until the last term is less than the machine epsilon defines as FLT_EPSILON in the header file <float.h>. Print the value returned by the Mathematical function exp ( ) also.
 
 ##Summary:
@@ -854,13 +800,7 @@ The Word length of the host machine is 32
     Value of exp(0.5) after evaluation = 1.648721
 
     Value of exp(0.5) using built in function = 1.648721
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a program in C to read two matrices A (M x N) and B (P x Q) and to compute the product of A and B if the matrices are compatible for multiplication. The program is to print the input matrices and the resultant matrix with suitable headings and format if the matrices are compatible for multiplication, otherwise the program must print a suitable message. (For the purpose of demonstration, the array sizes M, N, P, and Q can all be less than or equal to 3)
 
 ##Summary
@@ -1006,13 +946,7 @@ The Word length of the host machine is 32
         1 2 3
         4 5 6
         7 8 9
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a parallel program in C to add, elementwise, two one dimensional arrays A and B of N integer elements and to store the result in another one dimensional array C of N integer elements.
 
 ##Summary:
@@ -1110,13 +1044,7 @@ Run the following commands in your terminal:<br>
 	9
 	11
 
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design and develop a function rightrot(x,n) in C that returns the value of the integer x rotated to the right by n bit positions as an unsigned integer. Invoke the function from the main with different values for x and n and print the results with suitable headings. 
 
 ##Summary:
@@ -1196,13 +1124,7 @@ Run the following commands in your terminal:<br>
 	Rotate 4 how many times
 	3
 	Right_rot(4,3)=32768
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design and develop a function isprime (x) that accepts an integer argument and returns 1 if the argument is prime and 0 otherwise. The function is to use plain division checking approach to determine if a given number is prime. Invoke this function from the main with different values obtained from the user and print appropriate messages.
 
 ##Summary:
@@ -1287,13 +1209,7 @@ Run the following commands in your terminal:<br>
 	29
 	The entered value 29 is a prime number
 
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design, develop and execute a parallel program in C to determine and print the prime numbers which are less than 100 making use of algorithm of the Sieve of Eratosthenes.
 
 ##Summary:
@@ -1400,13 +1316,7 @@ Run the following commands in your terminal:<br>
     Prime numbers are 
 
 	2	3	5	7	11	13	17	19	23	
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design and develop a function reverses (s) in C to reverse the string s in place. Invoke this function from the main for different strings and print the original and reversed strings.
 
 
@@ -1480,13 +1390,7 @@ Run the following commands in your terminal:<br>
 
        The reversed string is kmsf
 
-
-
-
-
-
-
-##Aim:
+<DIV style='page-break-after:always'></DIV>##Aim:
 ###Design and develop a function matchany (s1,s2) which returns the first location in the string s1 where any character from the string s2 occurs,   or – 1 if s1 contains no character from s2. Do not use the standard library function which does a similar job! Invoke the function matchany (s1,s2) from the main for different strings and print both the strings and the return value from the function matchany (s1,s2).
 
 ##Summary:
